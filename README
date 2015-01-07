@@ -11,3 +11,10 @@ what it is :
     You can save an id in an allocator.
     
     You can create an allocator.
+    
+    
+what is advantage :
+     it will always give id in optimal way.
+     For example if available ids are : (4-100) and (56-58) and you ask for 2 continuous id,
+     then it will give : 56 , 57 .
+     ( So that always longer range is saved ).

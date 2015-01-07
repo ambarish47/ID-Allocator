@@ -1,0 +1,13 @@
+to compile :
+     download all files in a single folder
+     and run make.
+     
+to run :
+     ./a.out
+     
+     
+what it is :
+    You can get any no. of available continous ID (int) from an allocator.
+    You can save an id in an allocator.
+    
+    You can create an allocator.
